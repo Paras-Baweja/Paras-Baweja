@@ -1,6 +1,6 @@
 # Hi there 👋
 ##  I am Paras Baweja, a High Schooler passionate to code  
-> Other than learning, I am also interested in Freelancing and contributing to open source projects.
+#### Other than learning, I am also interested in Freelancing and contributing to open source projects.
 <hr>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFoNTk0c3cybnYzcmxmNW01bW9naTI1Y3JlYXg1ZjdrNHZoa2s0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="GIf" height="350">  
 
