@@ -28,9 +28,15 @@ If you like what I do, consider buying me a coffee or tea 🥺👉👈
 
 ### Social Accounts
 You can find me at:  
-<a href="https://github.com/paras-baweja" target="_blank"><img src="https://imgs.search.brave.com/LUckTVtnBmHLsv6OcyA_UsC-qZchQgYysxns3UjMp1s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvaW9uaWNvbnMt/ZmlsbC12b2wtMi81/MTIvbG9nby1naXRo/dWItMTI4LnBuZw" alt="GitHub" height="70"></a>
-<a href="https://twitter.com/ParasBaw" target="_blank"><img src="https://imgs.search.brave.com/MosVk1Fj3iuFiMjRjUBRVErO6o-gKyjR1RUf_E4CIic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hYm91/dC50d2l0dGVyLmNv/bS9jb250ZW50L2Rh/bS9hYm91dC10d2l0/dGVyL3gvYnJhbmQt/dG9vbGtpdC9sb2dv/LWJsYWNrLnBuZy50/d2ltZy4xOTIwLnBu/Zw" alt="X" height="65"></a>
-<a href="https://www.instagram.com/paras.baw/" target="_blank"><img src="https://imgs.search.brave.com/L9jbVhfOruP5PUK7ogHFawjIQwgoMvPdJ5O96VltCrc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY4MzE5MjE1/MGluc3RhZ3JhbS1s/b2dvLWJsYWNrLnBu/Zw" alt="Instagram" height="70"></a>
-<a href="https://codepen.io/Paras-Baweja" target="_blank"><img src="https://imgs.search.brave.com/iMHUNZmsD1yRPCj3c1HImtzA3kzHIsc1-JNz-PC723Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2Zv/bnRlbGxvL2JyYW5k/aWNvLmZvbnQvbWFz/dGVyL3NyYy9zdmcv/Y29kZXBlbi5zdmc.svg" alt="CodePen" height="70"></a>
-<a href="https://dev.to/parasbaweja" target="_blank"><img src="https://imgs.search.brave.com/ZAsczvBFSBQX1Hxk3YCp96g4mfmKDvUgmNIgaxJiu68/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy0zLzUx/Mi84NF9EZXZfbG9n/b19sb2dvcy0xMjgu/cG5n" alt="Dev.to" height="70"></a>
-<a href="mailto:parasbaweja@outlook.com" target="_blank"><img src="https://imgs.search.brave.com/mP4khu4DATitAV364VnRw7BBWYrDOK3TUsDcvheEBxg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/cy52ZXJ5aWNvbi5j/b20vcG5nL28vbWlz/Y2VsbGFuZW91cy9w/cmFjdGljYWwtbGlm/ZS1pY29uL21haWwt/MjU1LnBuZw" alt="Mail" height="70"></a>
+![github profile link](./Content/github-for-light.webp#gh-light-mode-only)
+![github profile link](./Content/github-for-dark.webp#gh-dark-mode-only)
+![x profile link](./Content/x-for-light.webp#gh-light-mode-only)
+![x profile link](./Content/x-for-dark.webp#gh-dark-mode-only)
+![instagram profile link](./Content/instagram-for-light.webp#gh-light-mode-only)
+![instagram profile link](./Content/instagram-for-dark.webp#gh-dark-mode-only)
+![codepen profile link](./Content/codepen-for-light.webp#gh-light-mode-only)
+![codepen profile link](./Content/codepen-for-dark.webp#gh-dark-mode-only)
+![dev profile link](./Content/dev-for-light.webp#gh-light-mode-only)
+![dev profile link](./Content/dev-for-dark.webp#gh-dark-mode-only)
+![mail link](./Content/mail-for-light.webp#gh-light-mode-only)
+![mail link](./Content/mail-for-dark.webp#gh-dark-mode-only)
