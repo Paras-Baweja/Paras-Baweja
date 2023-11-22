@@ -28,15 +28,15 @@ If you like what I do, consider buying me a coffee or tea 🥺👉👈
 
 ### Social Accounts
 You can find me at:  
-[![github profile link](./Content/github-for-light.webp)](https://www.github.com/Paras-Baweja#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![github profile link](./Content/github-for-dark.webp)](https://www.github.com/Paras-Baweja#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![x profile link](./Content/x-for-light.webp)](https://www.twitter.com/ParasBaw#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![x profile link](./Content/x-for-dark.webp)](https://www.twitter.com/ParasBaw#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![instagram profile link](./Content/instagram-for-light.webp)](https://www.instagram.com/paras.baw#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![instagram profile link](./Content/instagram-for-dark.webp)](https://www.instagram.com/paras.baw#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![codepen profile link](./Content/codepen-for-light.webp)](https://codepen.io/Paras-Baweja#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![codepen profile link](./Content/codepen-for-dark.webp)](https://codepen.io/Paras-Baweja#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![github profile link](./Content/github-for-light.webp)](https://www.github.com/Paras-Baweja#gh-light-mode-only)
+[![github profile link](./Content/github-for-dark.webp)](https://www.github.com/Paras-Baweja#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-light.webp)](https://www.twitter.com/ParasBaw#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-dark.webp)](https://www.twitter.com/ParasBaw#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-light.webp)](https://www.instagram.com/paras.baw#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-dark.webp)](https://www.instagram.com/paras.baw#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-light.webp)](https://codepen.io/Paras-Baweja#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-dark.webp)](https://codepen.io/Paras-Baweja#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
