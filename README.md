@@ -2,7 +2,7 @@
 ##  I am Paras Baweja, a High Schooler passionate to code  
 #### Other than learning, I am also interested in Freelancing and contributing to open source projects.
 <hr>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFoNTk0c3cybnYzcmxmNW01bW9naTI1Y3JlYXg1ZjdrNHZoa2s0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="GIf" height="350">  
+<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="350">  
 
 ### 👨‍💻 My languages:  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -28,15 +28,15 @@ If you like what I do, consider buying me a coffee or tea 🥺👉👈
 
 ### Social Accounts
 You can find me at:  
-![github profile link](./Content/github-for-light.webp#gh-light-mode-only)
-![github profile link](./Content/github-for-dark.webp#gh-dark-mode-only)
-![x profile link](./Content/x-for-light.webp#gh-light-mode-only)
-![x profile link](./Content/x-for-dark.webp#gh-dark-mode-only)
-![instagram profile link](./Content/instagram-for-light.webp#gh-light-mode-only)
-![instagram profile link](./Content/instagram-for-dark.webp#gh-dark-mode-only)
-![codepen profile link](./Content/codepen-for-light.webp#gh-light-mode-only)
-![codepen profile link](./Content/codepen-for-dark.webp#gh-dark-mode-only)
-![dev profile link](./Content/dev-for-light.webp#gh-light-mode-only)
-![dev profile link](./Content/dev-for-dark.webp#gh-dark-mode-only)
-![mail link](./Content/mail-for-light.webp#gh-light-mode-only)
-![mail link](./Content/mail-for-dark.webp#gh-dark-mode-only)
+[![github profile link](./Content/github-for-light.webp)](https://www.github.com/Paras-Baweja#gh-light-mode-only)
+[![github profile link](./Content/github-for-dark.webp)](https://www.github.com/Paras-Baweja#gh-dark-mode-only)
+[![x profile link](./Content/x-for-light.webp)](https://www.twitter.com/ParasBaw#gh-light-mode-only)
+[![x profile link](./Content/x-for-dark.webp)](https://www.twitter.com/ParasBaw#gh-dark-mode-only)
+[![instagram profile link](./Content/instagram-for-light.webp)](https://www.instagram.com/paras.baw#gh-light-mode-only)
+[![instagram profile link](./Content/instagram-for-dark.webp)](https://www.instagram.com/paras.baw#gh-dark-mode-only)
+[![codepen profile link](./Content/codepen-for-light.webp)](https://codepen.io/Paras-Baweja#gh-light-mode-only)
+[![codepen profile link](./Content/codepen-for-dark.webp)](https://codepen.io/Paras-Baweja#gh-dark-mode-only)
+[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)
+[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)
+[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)
+[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
