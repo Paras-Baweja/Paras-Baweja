@@ -2,7 +2,7 @@
 ##  I am Paras Baweja, a High Schooler passionate to code  
 #### Other than learning, I am also interested in Freelancing and contributing to open source projects.
 <hr>
-<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="320">  
+<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="280">  
 
 ### 👨‍💻 My languages:  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
