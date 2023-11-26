@@ -2,7 +2,7 @@
 ##  I am Paras Baweja, a High Schooler passionate to code  
 #### Other than learning, I am also interested in Freelancing and contributing to open source projects.
 <hr>
-<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="350">  
+<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="320">  
 
 ### 👨‍💻 My languages:  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -30,13 +30,13 @@ If you like what I do, consider buying me a coffee or tea 🥺👉👈
 You can find me at:  
 [![github profile link](./Content/github-for-light.webp)](https://www.github.com/Paras-Baweja#gh-light-mode-only)
 [![github profile link](./Content/github-for-dark.webp)](https://www.github.com/Paras-Baweja#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-light.webp)](https://www.twitter.com/ParasBaw#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-dark.webp)](https://www.twitter.com/ParasBaw#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-light.webp)](https://www.instagram.com/paras.baw#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-dark.webp)](https://www.instagram.com/paras.baw#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-light.webp)](https://codepen.io/Paras-Baweja#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-dark.webp)](https://codepen.io/Paras-Baweja#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-light.webp)](https://www.twitter.com/ParasBaw#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![x profile link](./Content/x-for-dark.webp)](https://www.twitter.com/ParasBaw#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-light.webp)](https://www.instagram.com/paras.baw#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram profile link](./Content/instagram-for-dark.webp)](https://www.instagram.com/paras.baw#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-light.webp)](https://codepen.io/Paras-Baweja#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codepen profile link](./Content/codepen-for-dark.webp)](https://codepen.io/Paras-Baweja#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
