@@ -39,8 +39,4 @@ You can find me at:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-light.webp)](https://dev.to/parasbaweja#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![dev profile link](./Content/dev-for-dark.webp)](https://dev.to/parasbaweja#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-light.webp)](mailto:parasbaweja@outlook.com#gh-light-mode-only)
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
-=======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail link](./Content/mail-for-dark.webp)](mailto:parasbaweja@outlook.com#gh-dark-mode-only)
->>>>>>> caa323d375d3cfaf30d357dcc8922479ee92927b
