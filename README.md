@@ -20,8 +20,10 @@
 ### 📈 Working on:
 * [Source Vista](https://github.com/Paras-Baweja/Source-Vista)
   
-> 💼 Any freelance work, you can reach me at [email](mailto:parasbaweja@outlook.com).  
-> 💬 If you have any questions, I am always there to help.  
+> 💼 Any freelance work, you can reach me at [email](mailto:parasbaweja@outlook.com).
+> 
+> 💬 If you have any questions, I am always there to help.
+> 
 > ⚡ Fun Fact: I am obsessed with pressing buttons.
 
 ### 📈 My GitHub Stats:
