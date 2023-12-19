@@ -1,10 +1,14 @@
 # Hi there 👋
-##  I am Paras Baweja, a High Schooler passionate to code  
-#### Other than learning, I am also interested in Freelancing and contributing to open source projects.
-<hr>
-<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="280">  
 
-### 👨‍💻 My languages and Tools:  
+## I am Paras Baweja, a High Schooler passionate to code
+
+#### Other than learning, I am also interested in Freelancing and contributing to open source projects.
+
+<hr>
+<img align="right" src="./Content/profile-gif.gif" alt="GIf" height="280">
+
+### 👨‍💻 My languages and Tools:
+
 <code><img height="30" src="./Content/HTML Logo.webp"></code>
 <code><img height="30" src="./Content/CSS Logo.webp"></code>
 <code><img height="30" src="./Content/JavaScript Logo.webp"></code>
@@ -12,28 +16,33 @@
 <code><img height="30" src="./Content/Python Logo.webp"></code>
 <code><img height="30" src="./Content/Git Logo.webp"></code>
 
-### 🌱 In Progress:  
+### 🌱 In Progress:
+
 <code><img height="30" src="./Content/Node.JS Logo.webp"></code>
 <code><img height="30" src="./Content/React.webp"></code>
 <code><img height="30" src="./Content/Android Logo.webp"></code>
 
 ### 📈 Working on:
-* [Source Vista](https://github.com/Paras-Baweja/Source-Vista)
-  
+
+- [Source Vista](https://github.com/Paras-Baweja/Source-Vista)
+
 > 💼 Any freelance work, you can reach me at [email](mailto:parasbaweja@outlook.com).
-> 
+>
 > 💬 If you have any questions, I am always there to help.
-> 
+>
 > ⚡ Fun Fact: I am obsessed with pressing buttons.
 
 ### 📈 My GitHub Stats:
+
 <img src="https://github-readme-stats.vercel.app/api?username=paras-baweja&show_icons=true&theme=gotham" alt="paras-baweja" />
 
 ### Donation
+
 If you like what I do, consider buying me a coffee or tea 🥺👉👈  
-<a href="https://www.buymeacoffee.com/parasbaweja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>  
+<a href="https://www.buymeacoffee.com/parasbaweja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Social Accounts
+
 You can find me at:  
 [![github profile link](./Content/github-for-light.webp)](https://www.github.com/Paras-Baweja#gh-light-mode-only)
 [![github profile link](./Content/github-for-dark.webp)](https://www.github.com/Paras-Baweja#gh-dark-mode-only)
