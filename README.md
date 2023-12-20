@@ -20,7 +20,6 @@
 
 <code><img height="30" src="./Content/Node.JS Logo.webp"></code>
 <code><img height="30" src="./Content/React.webp"></code>
-<code><img height="30" src="./Content/Android Logo.webp"></code>
 
 ### 📈 Working on:
 
