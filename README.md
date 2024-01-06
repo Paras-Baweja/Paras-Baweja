@@ -9,18 +9,17 @@
 
 ### 👨‍💻 My languages and Tools:
 
-<code><img height="30" src="./Content/HTML Logo.webp"></code>
-<code><img height="30" src="./Content/CSS Logo.webp"></code>
-<code><img height="30" src="./Content/JavaScript Logo.webp"></code>
-<code><img height="30" src="./Content/Java Logo.webp"></code>
-<code><img height="30" src="./Content/Python Logo.webp"></code>
-<code><img height="30" src="./Content/Git Logo.webp"></code>
+<code><img height="30" src="./Content/HTML Logo.svg"></code>
+<code><img height="30" src="./Content/CSS Logo.svg"></code>
+<code><img height="30" src="./Content/JavaScript Logo.svg"></code>
+<code><img height="30" src="./Content/Java Logo.svg"></code>
+<code><img height="30" src="./Content/Python Logo.svg"></code>
+<code><img height="30" src="./Content/Git Logo.svg"></code>
+<code><img height="30" src="./Content/React Logo.svg"></code>
 
 ### 🌱 In Progress:
 
-<code><img height="30" src="./Content/Node.JS Logo.webp"></code>
-<code><img height="30" src="./Content/React.webp"></code>
-<code><img height="30" src="./Content/Android Logo.webp"></code>
+<code><img height="30" src="./Content/Node.JS Logo.svg"></code>
 
 ### 📈 Working on:
 
