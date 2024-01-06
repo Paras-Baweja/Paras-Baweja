@@ -16,6 +16,7 @@
 <code><img height="30" src="./Content/Python Logo.svg"></code>
 <code><img height="30" src="./Content/Git Logo.svg"></code>
 <code><img height="30" src="./Content/React Logo.svg"></code>
+<code><img height="30" src="./Content/Tailwind CSS Logo.svg"></code>
 
 ### 🌱 In Progress:
 
